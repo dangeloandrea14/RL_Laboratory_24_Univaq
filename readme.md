@@ -6,7 +6,7 @@ This code is available on GitHub at
 
 https://github.com/dangeloandrea14/RL_practice_univaq
 
-[![GitHub QR Code](https://i.imgur.com/QjDgcFr.png)]()
+[![GitHub QR Code](https://i.imgur.com/n1aGTzh.png)]()
 
 ## How to set up the Conda environment
 
