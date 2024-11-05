@@ -4,7 +4,7 @@ contact: andrea.dangelo6@graduate.univaq.it
 
 This code is available on GitHub at
 
-https://github.com/dangeloandrea14/RL_practice_univaq
+[https://github.com/dangeloandrea14/RL_practice_univaq](https://github.com/dangeloandrea14/RL_Laboratory_24_Univaq)
 
 [![GitHub QR Code](https://i.imgur.com/n1aGTzh.png)]()
 
